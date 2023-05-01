@@ -2,7 +2,7 @@
 
 If you want to use this project as your portfolio website thn you have to run this command 
 
-### `npm install` to install those packages which we have used in our project the you can put your data and build the app using command ### `npm run build`. 
+### `npm install` to install those packages which we have used in our project the you can put your data and build the app using command `npm run build`. 
 
 ## Available Scripts
 
