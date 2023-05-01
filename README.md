@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Reactjs-Portfolio-Website Developed By @LostAnurag
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you want to use this project as your portfolio website thn you have to run this command 
+
+### `npm install` to install those packages which we have used in our project the you can put your data and build the app using command ### `npm run build`. 
 
 ## Available Scripts
 
