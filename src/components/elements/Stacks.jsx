@@ -17,7 +17,7 @@ const Stacks = () => {
   <h1 className="font-medium text-white md:text-4xl text-xl">Stacks</h1>
    <p className="text-white text-sm mt-1">With over 3 years of experience in coding, I am well-versed in various programming languages and stacks. My passion for coding drives me to take on new projects and challenges, constantly learning and improving my skills. With dedication and creativity, I strive to deliver quality code and innovative solutions.</p>
    
-   <h2 className="typing font-medium text-white md:text-xl text-base mt-1">Here are some languages I like to use in my projects.</h2>
+   <h2 className="typing font-medium text-white md:text-xl text-base mt-1">Here are some languages/Framworks/Libraries I like to use in my projects.</h2>
     <div className='w-full mt-2 md:grid md:grid-cols-2'>
     <ul>
         <li className='text-white flex items-center'><i className='mr-2'><AiFillHtml5/></i>Html</li>
